@@ -7,4 +7,10 @@ If you are a potential employer, collaborator, or reviewer and would like to see
 
 🔹 To request access, please contact me via LinkedIn or email me at marieo3@uw.edu.
 
+- IMT 543 Relational Database Management Systems
+- IMT 511 Introduction To Programming For Information And Data Science
+- IMT 573 Data Science I: Theoretical Foundations
+- IMT 574 Data Science II: Machine Learning
+- IMT 575 Data Science III: Scaling, Applications, And Ethics
+
 Thank you for your interest!
